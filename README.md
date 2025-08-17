@@ -1,95 +1,78 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=550&lines=Consumer+Insight+Analyst;Data-Driven+UX+Researcher;Turning+Data+Into+Stories" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D32%26duration%3D3000%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D550%26lines%3DConsumer%2BInsight%2BAnalyst%3BData-Driven%2BUX%2BResearcher%3BTurning%2BData%2BInto%2BStories" alt="Typing SVG" /></a>
 </p>
 
-I am a professional focused on the intersection of **psychology** and **data** to understand the fundamental question: *why do people do what they do?* My mission is to transform raw data into actionable consumer insights.
+I am a professional focused on the intersection of psychology and data to understand the fundamental question: why do people do what they do? My mission is to transform raw data into actionable consumer insights.
 
----
+🎯 Core Focus
+🎧 Qualitative UX Research: Listening to and understanding the stories behind user interactions.
 
-### 🎯 Core Focus
-* 🎧 **Qualitative UX Research:** Listening to and understanding the stories behind user interactions.
-* 🔍 **Quantitative Analysis & Research:** Uncovering hidden behavioral patterns within data.
-* 📊 **Data Visualization & Communication:** Translating complex findings into clear, impactful narratives.
+🔍 Quantitative Analysis & Research: Uncovering hidden behavioral patterns within data.
 
----
+📊 Data Visualization & Communication: Translating complex findings into clear, impactful narratives.
 
-### 💻 Skills & Tools
+<details align="center">
+<summary>Click to see my Skills & Tools</summary>
+<br>
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Data Visualization</h3>
-      <div align="center">
-        <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
-        <a href="https://lookerstudio.google.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white" alt="Looker Studio"/></a>
-        <a href="https://d3js.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js"/></a>
-        <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/></a>
-        <a href="https://matplotlib.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/></a>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Analysis & Programming</h3>
-      <div align="center">
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
-        <a href="https://www.r-project.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
-        <a href="https://www.sas.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/SAS-0078C8?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/></a>
-        <a href="https://git-scm.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">UX & Consumer Research</h3>
-      <div align="center">
-        <a href="https://www.adobe.com/products/xd.html" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/></a>
-        <a href="https://miro.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"/></a>
-        <a href="https://analytics.google.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/></a>
-        <a href="https://maze.co/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Maze-0B57FF?style=for-the-badge&logo=maze&logoColor=white" alt="Maze"/></a>
-        <a href="https://www.figma.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-<p align="center">
-  <i>(Ganti <strong>[NAMA_REPO]</strong> di bawah ini dengan nama repositori proyek terbaik Anda)</i><br><br>
-  <a href="https://github.com/daddyananta/[NAMA_REPO_1]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daddyananta&repo=[NAMA_REPO_1]&theme=dark" />
-  </a>
-  <a href="https://github.com/daddyananta/[NAMA_REPO_2]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daddyananta&repo=[NAMA_REPO_2]&theme=dark" />
-  </a>
+<p style="display: inline-block;" align="center">
+<kbd>
+<kbd>Data Visualization</kbd>
+<br>
+<br>
+<img width="35px" src="https://www.google.com/search?q=https://raw.githubusercontent.com/daddyananta/daddyananta/main/icons/powerbi.svg" alt="Power BI" title="Power BI" />&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://raw.githubusercontent.com/daddyananta/daddyananta/main/icons/looker.svg" alt="Looker Studio" title="Looker Studio" />&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" title="D3.js"/>&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://raw.githubusercontent.com/daddyananta/daddyananta/main/icons/seaborn.svg" alt="Seaborn" title="Seaborn" />&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://raw.githubusercontent.com/daddyananta/daddyananta/main/icons/matplotlib.svg" alt="Matplotlib" title="Matplotlib" />&nbsp;
+</kbd>
+<kbd>
+<kbd>Analysis & Programming</kbd>
+<br>
+<br>
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>&nbsp;
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" title="SQL"/>&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" title="R"/>&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://raw.githubusercontent.com/daddyananta/daddyananta/main/icons/sas.svg" alt="SAS" title="SAS" />&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp;
+</kbd>
+<kbd>
+<kbd>UX & Consumer Research</kbd>
+<br>
+<br>
+<img width="35px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" title="Adobe XD"/>&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://raw.githubusercontent.com/daddyananta/daddyananta/main/icons/miro.svg" alt="Miro" title="Miro" />&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://raw.githubusercontent.com/daddyananta/daddyananta/main/icons/google-analytics.svg" alt="Google Analytics" title="Google Analytics" />&nbsp;
+<img width="35px" src="https://www.google.com/search?q=https://raw.githubusercontent.com/daddyananta/daddyananta/main/icons/maze.svg" alt="Maze" title="Maze" />&nbsp;
+</kbd>
 </p>
 
----
+</details>
 
-### 📊 GitHub Stats
-
+📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daddyananta&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daddyananta&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daddyananta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddaddyananta%26theme%3Ddark%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dfalse" alt="GitHub Stats"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddaddyananta%26theme%3Ddark%26hide_border%3Dfalse" alt="GitHub Streak"/>
+<br>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddaddyananta%26theme%3Ddark%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dfalse%26layout%3Dcompact" alt="Top Languages"/>
+<br><br>
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Ddaddyananta%26theme%3Ddracula%26column%3D7%26no-frame%3Dtrue%26no-bg%3Dtrue" alt="GitHub Trophies"/>
 </p>
 
----
-
-### 📫 Connect With Me
-
+📫 Connect With Me
 <p align="center">
-  <a href="mailto:daddyananta123@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://id.linkedin.com/in/daddy-ananta-sinulingga-468141253">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://daddyananta.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
+<a href="mailto:daddyananta123@yahoo.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
+<a href="https://id.linkedin.com/in/daddy-ananta-sinulingga-468141253">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://daddyananta.github.io/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox%26logoColor%3D%23FF7139" alt="Portfolio"/>
+</a>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=daddyananta&icon=0&color=0" alt="Visitor Count"/>
+<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Ddaddyananta%26icon%3D0%26color%3D0" alt="Visitor Count"/>
 </p>
