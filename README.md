@@ -64,8 +64,7 @@ I am a professional focused on the intersection of **psychology** and **data** t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daddyananta&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daddyananta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=daddyananta&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+  <br>
 </p>
 
 ---
